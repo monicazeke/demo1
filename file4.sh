@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nnnnn
+=======
+hjddm
+>>>>>>> main
